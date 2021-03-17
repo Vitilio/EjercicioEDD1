@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.ejercicioedd1;
+package com.mycompany.ejercicioedd1.uno;
 
 /**
  * Displays a message saying "Hello World" to the user
@@ -11,7 +11,7 @@ package com.mycompany.ejercicioedd1;
  * @author Víctor Blanco Rodrigo
  * @version 1.0
  */
-public class MiPrimeraClase {
+public class Main {
 
     /**
      * @param args the command line arguments
